@@ -5,10 +5,10 @@ Proyek ini merupakan **Tugas Ujian Tengah Semester (UTS)** Mata Kuliah **Teknolo
 
 ## 👥 Anggota Kelompok
 
-- Akhmad Febri Dimyati
-- Moh. Ni'am Billi Yachsyi
-- Agung Dwi Jaya
-- Jouvan Labib
+- Akhmad Febri Dimyati (2530801094)
+- Moh. Ni'am Billi Yachsyi (2530801024)
+- Agung Dwi Jaya (2530801093)
+- Jouvan Labib (2530801089)
 
 
 ## 📌 Informasi Mata Kuliah
