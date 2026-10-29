@@ -18,6 +18,10 @@ Proyek ini merupakan **Tugas Ujian Tengah Semester (UTS)** Mata Kuliah **Teknolo
 * **Platform:** Remix IDE (Solidity v0.8.20) & GitHub
 
 
+## 📽️ Link Video Revisi UTS
+https://bit.ly/4BFf9Ns
+
+
 ## 📂 Struktur Repository
 
 ```text
